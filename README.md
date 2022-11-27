@@ -8,7 +8,7 @@
     <title>Luis castillo</title>
    
 
-<link rel="stylesheet" type="text/css" href="./paginahtm1_files/pagina_completa_estilos.css" title="style">
+<link rel="stylesheet" type="text/css" href="https://github.com/luiscastillo9/luis.github.io/blob/main/paginahtm1_files/pagina_completa_estilos.css" title="style">
 <title>Lorem ipsum</title>
 
 </head>
