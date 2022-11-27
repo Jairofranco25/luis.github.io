@@ -17,7 +17,7 @@
 
 <div id="cabecera">
 <div id="logo">
-<center><h1><span>Tipos De Razas De Perros</span></h1></a></li></center>
+<center><h1><span>Tipos De Razas De Perros</span></h1></center>
 
 <div class="clear"></div>
 </div>
