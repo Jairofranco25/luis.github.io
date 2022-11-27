@@ -6,11 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Luis castillo</title>
-   <link rel="stylesheet" type="text/css" href="./paginahtm1_files/pagina_completa_estilos.css" title="style">
+   
+
+<link rel="stylesheet" type="text/css" href="./paginahtm1_files/pagina_completa_estilos.css" title="style">
 <title>Lorem ipsum</title>
 
 </head>
 <body>
+
 <div id="contenedor">
 
 <div id="cabecera">
@@ -20,6 +23,7 @@
 </center>
 
 <center><h1><span>Tipos De Razas De Perros</span></h1></a></li></center>
+
 <div class="clear"></div>
 </div>
 <div id="menu">
@@ -33,6 +37,7 @@
 </ul>
 <div class="clear"></div>
 </div>
+
 
 <div id="lateral">
 <div id="noticias">
@@ -55,68 +60,8 @@
 <li> <a href="https://concepto.de/animales-domesticos/"> Animales Domesticos</a></li>
 </ul>
 </div>
-<div id="publicidad">
-<h3><a href="./imagenes/mascota publi.jpeg"> Publicidad</a></h3>
-<p>Descubre los nuevos planes de salud para perros,conoce la protección integral de Vetplan Puppy para darle el mejor cuidado a tu cachorro.</p>
-<p></p>
 
-</div>
 
-</div>
-
-<div id="contenido">
-
-<div id="principal">
-<div class="articulo">
-<h2>Pastor Alemán</h2>
-<img src="./imagenes/Pastor Alemán.jpeg" alt="Imagen gen�rica">
-
-<p>Personalidad</p>
-<p> Los pastores alemanes se llevan bien con los niños y otras mascotas si crecen juntos, pero, tienden a dudar de la gente extraña, debido a sus instintos de guardianes.Se considera que esta raza es lista y fácil de adiestrar. Algunos pastores alemanes que no se han criado debidamente pueden ser muy excitables y nerviosos. Una mala socialización y un adiestramiento inadecuado, pueden desencadenar comportamientos de sobreprotección o agresivos.</p>
-
-</div>
-<div class="articulo">
-<h2>Pitbull</h2>
-<img src="./imagenes/Pittbull.jpeg" alt="Imagen gen�rica">
-<p>El Pit Bull Terrier Americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los Bull- And_Terries, importados desde el Reino Unido en el siglo XIX.Tienes un temperamento Determinado ,Valiente e Inteligente.
-</p>
-
-<h2>Dogo de Burdeos</h2>
-<img src="./imagenes/Dogo De Burdeos.jpeg" alt="Imagen gen�rica">
-<p> El dogo de Burdeos es una raza de perro de origen francés; forma parte de la gran familia de los dogos. Es un perro de gran fuerza y potencia, con un carácter firme y decidido que lo convierten en un gran perro guardián. </p>
-</div>
-</div>
-<div id="publicidad">
-<h3><a href="./imagenes/mascota publi.jpeg"> Publicidad</a></h3>
-<p>Descubre los nuevos planes de salud para perros,conoce la protección integral de Vetplan Puppy para darle el mejor cuidado a tu cachorro.</p>
-<p></p>
-
-</div>
-
-</div>
-
-<div id="contenido">
-
-<div id="principal">
-<div class="articulo">
-<h2>Pastor Alemán</h2>
-<img src="./imagenes/Pastor Alemán.jpeg" alt="Imagen gen�rica">
-
-<p>Personalidad</p>
-<p> Los pastores alemanes se llevan bien con los niños y otras mascotas si crecen juntos, pero, tienden a dudar de la gente extraña, debido a sus instintos de guardianes.Se considera que esta raza es lista y fácil de adiestrar. Algunos pastores alemanes que no se han criado debidamente pueden ser muy excitables y nerviosos. Una mala socialización y un adiestramiento inadecuado, pueden desencadenar comportamientos de sobreprotección o agresivos.</p>
-
-</div>
-<div class="articulo">
-<h2>Pitbull</h2>
-<img src="./imagenes/Pittbull.jpeg" alt="Imagen gen�rica">
-<p>El Pit Bull Terrier Americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los Bull- And_Terries, importados desde el Reino Unido en el siglo XIX.Tienes un temperamento Determinado ,Valiente e Inteligente.
-</p>
-
-<h2>Dogo de Burdeos</h2>
-<img src="./imagenes/Dogo De Burdeos.jpeg" alt="Imagen gen�rica">
-<p> El dogo de Burdeos es una raza de perro de origen francés; forma parte de la gran familia de los dogos. Es un perro de gran fuerza y potencia, con un carácter firme y decidido que lo convierten en un gran perro guardián. </p>
-</div>
-</div>
 <div id="publicidad">
 <h3><a href="./imagenes/mascota publi.jpeg"> Publicidad</a></h3>
 <p>Descubre los nuevos planes de salud para perros,conoce la protección integral de Vetplan Puppy para darle el mejor cuidado a tu cachorro.</p>
@@ -149,3 +94,36 @@
 </div>
 </div>
 
+
+<div id="secundario">
+<h2>Datos curiosos </h2>
+<p>El perro pitbull no tiene un comportamiento determinado, la educación y el adiestramiento que reciba influirá totalmente en su etapa adulta ya sea con un temperamento amigable, reservado o reactivo.
+
+    La Facultad de Medicina de la Universidad Estatal de Ohio y el Centro Médico Wexner ha realizado un estudio con la finalidad de detectar las razas de perro y los rasgos físicos que tienen estos canes con mayor riesgo de atacar y de provocar lesiones graves a los niños. Según el análisis de resultados del estudio, los perros de la raza pitbull son los más propensos a morder.
+    
+    Sin embargo, otras investigaciones afirman que cuando son educados y socializados desde cachorros, pueden llevarse muy bien con niños y convivir pacíficamente con otros animales.</p>
+<p><a href="https://www.expertoanimal.com/curiosidades-sobre-los-perros-pitbull-23528.html">Seguir leyendo...</a></p>
+
+</div>
+
+</div>
+
+
+
+<div id="pie">
+<span class="enlaces">
+<a href="">Nulla</a> |
+<a href="">Pharetra</a> |
+<a href="">Luctus</a> |
+<a href="">Ipsum</a> |
+<a href="">Proin</a> |
+<a href="">Placerat</a>
+</span>
+
+<div class="clear"></div>
+</div>
+
+</div>
+
+
+</body></html>
