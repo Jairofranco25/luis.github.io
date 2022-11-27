@@ -18,10 +18,6 @@
 
 <div id="cabecera">
 <div id="logo">
-<center >
-    <img src="./imagenes/Varios Perros.jpeg" width="960" height="150"alt="Imagen gen�rica" > 
-</center>
-
 <center><h1><span>Tipos De Razas De Perros</span></h1></a></li></center>
 
 <div class="clear"></div>
