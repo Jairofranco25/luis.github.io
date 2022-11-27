@@ -55,4 +55,97 @@
 <li> <a href="https://concepto.de/animales-domesticos/"> Animales Domesticos</a></li>
 </ul>
 </div>
+<div id="publicidad">
+<h3><a href="./imagenes/mascota publi.jpeg"> Publicidad</a></h3>
+<p>Descubre los nuevos planes de salud para perros,conoce la protección integral de Vetplan Puppy para darle el mejor cuidado a tu cachorro.</p>
+<p></p>
+
+</div>
+
+</div>
+
+<div id="contenido">
+
+<div id="principal">
+<div class="articulo">
+<h2>Pastor Alemán</h2>
+<img src="./imagenes/Pastor Alemán.jpeg" alt="Imagen gen�rica">
+
+<p>Personalidad</p>
+<p> Los pastores alemanes se llevan bien con los niños y otras mascotas si crecen juntos, pero, tienden a dudar de la gente extraña, debido a sus instintos de guardianes.Se considera que esta raza es lista y fácil de adiestrar. Algunos pastores alemanes que no se han criado debidamente pueden ser muy excitables y nerviosos. Una mala socialización y un adiestramiento inadecuado, pueden desencadenar comportamientos de sobreprotección o agresivos.</p>
+
+</div>
+<div class="articulo">
+<h2>Pitbull</h2>
+<img src="./imagenes/Pittbull.jpeg" alt="Imagen gen�rica">
+<p>El Pit Bull Terrier Americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los Bull- And_Terries, importados desde el Reino Unido en el siglo XIX.Tienes un temperamento Determinado ,Valiente e Inteligente.
+</p>
+
+<h2>Dogo de Burdeos</h2>
+<img src="./imagenes/Dogo De Burdeos.jpeg" alt="Imagen gen�rica">
+<p> El dogo de Burdeos es una raza de perro de origen francés; forma parte de la gran familia de los dogos. Es un perro de gran fuerza y potencia, con un carácter firme y decidido que lo convierten en un gran perro guardián. </p>
+</div>
+</div>
+<div id="publicidad">
+<h3><a href="./imagenes/mascota publi.jpeg"> Publicidad</a></h3>
+<p>Descubre los nuevos planes de salud para perros,conoce la protección integral de Vetplan Puppy para darle el mejor cuidado a tu cachorro.</p>
+<p></p>
+
+</div>
+
+</div>
+
+<div id="contenido">
+
+<div id="principal">
+<div class="articulo">
+<h2>Pastor Alemán</h2>
+<img src="./imagenes/Pastor Alemán.jpeg" alt="Imagen gen�rica">
+
+<p>Personalidad</p>
+<p> Los pastores alemanes se llevan bien con los niños y otras mascotas si crecen juntos, pero, tienden a dudar de la gente extraña, debido a sus instintos de guardianes.Se considera que esta raza es lista y fácil de adiestrar. Algunos pastores alemanes que no se han criado debidamente pueden ser muy excitables y nerviosos. Una mala socialización y un adiestramiento inadecuado, pueden desencadenar comportamientos de sobreprotección o agresivos.</p>
+
+</div>
+<div class="articulo">
+<h2>Pitbull</h2>
+<img src="./imagenes/Pittbull.jpeg" alt="Imagen gen�rica">
+<p>El Pit Bull Terrier Americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los Bull- And_Terries, importados desde el Reino Unido en el siglo XIX.Tienes un temperamento Determinado ,Valiente e Inteligente.
+</p>
+
+<h2>Dogo de Burdeos</h2>
+<img src="./imagenes/Dogo De Burdeos.jpeg" alt="Imagen gen�rica">
+<p> El dogo de Burdeos es una raza de perro de origen francés; forma parte de la gran familia de los dogos. Es un perro de gran fuerza y potencia, con un carácter firme y decidido que lo convierten en un gran perro guardián. </p>
+</div>
+</div>
+<div id="publicidad">
+<h3><a href="./imagenes/mascota publi.jpeg"> Publicidad</a></h3>
+<p>Descubre los nuevos planes de salud para perros,conoce la protección integral de Vetplan Puppy para darle el mejor cuidado a tu cachorro.</p>
+<p></p>
+
+</div>
+
+</div>
+
+<div id="contenido">
+
+<div id="principal">
+<div class="articulo">
+<h2>Pastor Alemán</h2>
+<img src="./imagenes/Pastor Alemán.jpeg" alt="Imagen gen�rica">
+
+<p>Personalidad</p>
+<p> Los pastores alemanes se llevan bien con los niños y otras mascotas si crecen juntos, pero, tienden a dudar de la gente extraña, debido a sus instintos de guardianes.Se considera que esta raza es lista y fácil de adiestrar. Algunos pastores alemanes que no se han criado debidamente pueden ser muy excitables y nerviosos. Una mala socialización y un adiestramiento inadecuado, pueden desencadenar comportamientos de sobreprotección o agresivos.</p>
+
+</div>
+<div class="articulo">
+<h2>Pitbull</h2>
+<img src="./imagenes/Pittbull.jpeg" alt="Imagen gen�rica">
+<p>El Pit Bull Terrier Americano es una raza de perro, originaria de Estados Unidos, que surgió a partir de la raza de los Bull- And_Terries, importados desde el Reino Unido en el siglo XIX.Tienes un temperamento Determinado ,Valiente e Inteligente.
+</p>
+
+<h2>Dogo de Burdeos</h2>
+<img src="./imagenes/Dogo De Burdeos.jpeg" alt="Imagen gen�rica">
+<p> El dogo de Burdeos es una raza de perro de origen francés; forma parte de la gran familia de los dogos. Es un perro de gran fuerza y potencia, con un carácter firme y decidido que lo convierten en un gran perro guardián. </p>
+</div>
+</div>
 
