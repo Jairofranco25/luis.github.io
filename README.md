@@ -42,8 +42,9 @@
 <div id="lateral">
 <div id="noticias">
 <h3> Integrantes</h3>
-<div id="Integrantes"><p>* Luis Castillo Serrato</p>
-<p>*Esdaly Torres Carrasco</p></div>
+<div id="Integrantes">
+<p>* Luis Castillo Serrato</p>
+<p>*Esdaly Torres Maldonado</p></div>
 <h3><a href="">Razas</a></h3>
 <p> <a href="./imagenes/Malamute De Alaska.jpeg"> Malamute De Alaska</a></p>
 <p><a href="./imagenes/Pastor De Anatolia.jpeg">Pastor De Anatolia</a></p>
@@ -127,119 +128,3 @@
 
 
 </body></html>
-.clear { clear: both; }
-img { border: n; }
-
-/*-- Layout ----------------------------------------------------------*/
-#contenedor {
-  width: 800%;
-  max-width: 1000px;
- 
-  margin: auto;
-}
-
-#cabecera, #menu, #lateral, #contenido, #contenido #principal, #contenido #secundario, #pie {
-  border: 1px solid rgb(34, 10, 245);
-}
-
-#cabecera { clear: both; }
-#menu { clear: both; }
-#lateral { float: left; width: 20%; }
-#contenido { float: right; width: 100%; }
-#contenido #principal { float: left; width: 100%; }
-#contenido #secundario { float: right; width: 20%; }
-#pie { clear: both; }
-
-/*-- Cabecera --------------------------------------------------------*/
-#cabecera #logo { float: left; }
-#cabecera #buscador { float: right; }
-
-/*-- Menu ------------------------------------------------------------*/
-#menu_principal li { display: inline; float: left;
-  border: 1px solid rgb(64, 255, 47);
-  margin: right 100px; 
-  padding: 3px;
-  background:powderblue;
-  float: inline-end ;
-}
-#menu_principal a{
-  text-decoration: none;
-  font-family: cursive;
-}
-#menu_principal a:hover{ 
-  color:black;
-  background-color: rgb(240, 250, 240);
-}
-#menu_principal a:active{
-color :black;
-}
-/*-- Sección Principal -----------------------------------------------*/
-#contenido #principal .articulo img { width: 150px; float:left ; }
-
-/*-- Pie de página ---------------------------------------------------*/
-#pie .enlaces   { float: left; }
-#pie .copyright { float: right; }
-#cabecera,
-#menu,
-#lateral,
-#lateral #noticias,
-#lateral #publicidad,
-#contenido,
-#contenido #principal,
-#contenido #secundario,
-#pie {
-  padding: .5em;
-
-}
-
-#lateral {
-  padding: 0;
-background-color: rgb(136, 230, 99);
-}
-
-#cabecera {
-  padding: 1em;
-background-color: rgb(0, 255, 136);
- 
-}
-
-#menu {
-  margin-bottom: .5em;
- background-color: rgb(127, 255, 170);
-}
-
-#contenido {
-  width: 77%;
-  padding: 0;
-background-color: rgb(102, 255, 0);
-}
-
-#contenido #principal {
-  width: 73%;
-  background-color: rgb(27, 247, 19);
-}
-
-#pie {
-  padding: .5em 0;
-  margin-top: 1em;
-  background-color: rgb(0, 255, 136);
-  
-}
-
-#contenido #principal .articulo {
-  margin-bottom: 3em;
-}
-
-#contenido #principal .articulo img {
-  margin: .3em;
-  background: fixed;
-}
-
-#contenido #principal .articulo{
-  margin: 5em;
-}
-
-#lateral #publicidad {
-  margin-top: 6em;
-  background-color: rgb(136, 230, 99);
-}
