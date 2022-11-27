@@ -7,7 +7,7 @@
     <title>Luis castillo</title>
    
 
-<link rel ="stylesheet" hrf="style.css">
+<link rel ="stylesheet" hrf="./paginahtm1_files/pagina_completa_estilos.css">
 <title>Lorem ipsum</title>
 
 </head>
