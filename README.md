@@ -28,7 +28,7 @@
 </div>
 <div id="menu">
 <ul id="menu_principal">
-<li><a  href="./imagenes/perrito.jpeg">Cachorrito</a></li>
+<li><a  href="https://github.com/luiscastillo9/luis.github.io/commit/73c5478c3cafa12992d91ed9a84b226e61f0f131#diff-79e7b6eb6b5c646ade82072d3c91f4041c5a6272d6edfbe2c9d22e96e65c419d">Cachorrito</a></li>
 <li><a href="./imagenes/perro y gato.jpeg">Perrito y Gatito</a></li>
 <li><a href="./imagenes/perro blanco.jpeg">perrito blanco</a></li>
 <li><a href="./imagenes/Pittbull.jpeg">pitbull</a></li>
