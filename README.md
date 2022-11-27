@@ -109,15 +109,6 @@
 </div>
 
 
-
-<div id="pie">
-<span class="enlaces">
-<a href="">Nulla</a> |
-<a href="">Pharetra</a> |
-<a href="">Luctus</a> |
-<a href="">Ipsum</a> |
-<a href="">Proin</a> |
-<a href="">Placerat</a>
 </span>
 
 <div class="clear"></div>
